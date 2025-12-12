@@ -1,4 +1,4 @@
-# MNIST Digit Classification with CNN
+# MNIST Digit Classification with Baseline CNN
 
 A PyTorch implementation of a Convolutional Neural Network for handwritten digit recognition using the MNIST dataset.
 
